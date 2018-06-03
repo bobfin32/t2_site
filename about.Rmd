@@ -9,3 +9,5 @@ title: "About Me"
 - __Hobbies:__ Learning R. 
 
 Here is a super cool photo. 
+
+<img src="images/my_photo.png" style="width:75%">
