@@ -2,6 +2,9 @@
 title: "Bob's Website"
 ---
 
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, warning=FALSE, message=FALSE)
+```
 __Look at how cool this plot is!__
 
 
