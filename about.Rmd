@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 ---
+## My latest project
 
 ### I have a webpage!
 
@@ -8,6 +9,8 @@ title: "About Me"
 - __Ocupation:__ Economist
 - __Hobbies:__ Learning R. 
 
+This my favorite data science tool [google](http://www.google.com)
+
 Here is a super cool photo. 
 
-<img src="images/my_photo.png" style="width:75%">
+<img src="images/my_photo.png" style="width:50%">
